@@ -1,7 +1,7 @@
 # React Monorepo Architecture Rulebook
 ## Cross-Platform Native React Deployables
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Purpose:** Definitive guide for building maintainable, scalable cross-platform React monorepos  
 **Philosophy:** Single codebase, multiple deployment targets, maximum code reuse  
 
